@@ -3,7 +3,7 @@
   <a href="https://suprit.vercel.app/" target="_blank">suprit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
