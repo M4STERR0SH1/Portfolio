@@ -1,6 +1,6 @@
 <h2 align="center">
   Old Portfolio Website <br/>
-  <a href="https://suprit.vercel.app/" target="_blank">suprit.tech</a>
+  <a href="https://oldsuprit.vercel.app/" target="_blank">suprit.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
