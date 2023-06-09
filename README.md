@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website <br/>
+  Old Portfolio Website <br/>
   <a href="https://suprit.vercel.app/" target="_blank">suprit.tech</a>
 </h2>
 <div align="center">
